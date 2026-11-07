@@ -6,8 +6,8 @@ I am a Computer Forensics and criminal investigation graduate
 focused on developing practical skills in enterprise networking,
 network infrastructure, cybersecurity and a digital invetigator.
 
-My goal is to design, configure, secure, and troubleshoot
-reliable enterprise networks.
+My goal is to design, configure, secure, troubleshoot
+reliable enterprise networks investigate issues incase they arise  .
 
 ## Technical Focus
 
@@ -22,7 +22,7 @@ reliable enterprise networks.
 - Network Security and Firewalls
 - IPsec Site-to-Site VPNs
 - Network Troubleshooting
-
+- Linux labs
 ##  Tools and Technologies
 
 - Cisco Packet Tracer
@@ -32,8 +32,8 @@ reliable enterprise networks.
 - VirtualBox
 - FortiGate (Virtual Labs)
 - Linux and Windows Server
--fortigate
--forensics tools
+-Fortigate Firewall
+-Digital forensics tools
 ##  Current Projects
 
 - Enterprise HQ and Branch Network Design
@@ -43,7 +43,7 @@ reliable enterprise networks.
 - NAT and PAT Implementation
 - Site-to-Site IPsec VPN
 - Network Monitoring and Troubleshooting
-
+- Simulated case invetigation
 ## Career Interests
 
 Network Engineering | NOC Operations |
