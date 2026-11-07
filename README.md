@@ -47,4 +47,4 @@ reliable enterprise networks investigate issues incase they arise  .
 ## Career Interests
 
 Network Engineering | NOC Operations |
-IT Infrastructure | Network Security
+IT Infrastructure | Network Security and investigation
