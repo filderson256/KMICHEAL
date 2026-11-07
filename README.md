@@ -1,10 +1,10 @@
 # Hello, I'm Kwihangana micheal 
 
-### Aspiring Network Engineer | CCNA 200-301
+### Aspiring Network Engineer | CCNA 200-301 |DFIR
 
 I am a Computer Forensics and criminal investigation graduate
 focused on developing practical skills in enterprise networking,
-network infrastructure, cybersecurity and a digital invetigator.
+network infrastructure, cybersecurity and  digital invetigation.
 
 My goal is to design, configure, secure, troubleshoot
 reliable enterprise networks investigate issues incase they arise  .
