@@ -2,9 +2,9 @@
 
 ### Aspiring Network Engineer | CCNA 200-301
 
-I am a Computer Forensics and Network Engineering student
+I am a Computer Forensics and criminal investigation graduate
 focused on developing practical skills in enterprise networking,
-network infrastructure, and cybersecurity.
+network infrastructure, cybersecurity and a digital invetigator.
 
 My goal is to design, configure, secure, and troubleshoot
 reliable enterprise networks.
