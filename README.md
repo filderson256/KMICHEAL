@@ -4,7 +4,7 @@
 
 I am a Computer Forensics and criminal investigation graduate
 focused on developing practical skills in enterprise networking,
-network infrastructure, cybersecurity and  digital invetigation.
+network infrastructure, cybersecurity and  digital forensics investigation.
 
 My goal is to design, configure, secure, troubleshoot
 reliable enterprise networks investigate issues incase they arise  .
